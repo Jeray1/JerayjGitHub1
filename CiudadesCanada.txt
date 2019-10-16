@@ -3,3 +3,5 @@
  1-Ottawa
  2-Vancouver
  3-Toronto
+ 4-Hamilton
+ 5-Kitchener
