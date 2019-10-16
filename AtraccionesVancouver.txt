@@ -1,0 +1,13 @@
+# esto deberia de ser un listado de atracciones que hay en la ciudad de Vancouver
+
+1-Atraccion1 (aimar)
+2-Atraccion2 (aimar)
+3-Atraccion3 (aimar)
+4-Atraccion4 (aimar)
+5-Atraccion5 (aimar)
+6-Atraccion6 (aimar)
+7-Atraccion7 (aimar)
+8-Atraccion8 (aimar)
+9-Atraccion9 (aimar)
+10-Atraccion10 (aimar)
+
