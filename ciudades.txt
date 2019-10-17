@@ -1,12 +1,11 @@
 ##Hola, aqui se veran las ciudades
-
+0-España (Arriba de todo)
 1-Irun
 2-Donosti
 3-Renteria
 4-Hondarribia
-<<<<<<< HEAD
-5-Aimar
 
-=======
+6-Aimar
+
 5-Jeray
->>>>>>> 6c75f332c295e5d01a4917d4ebcc359e2abcec21
+
